@@ -1,2 +1,2 @@
 # MINI-Project
-volume of gas using load cell
+Determining the Volume of Liquid Petroleum Gas (LPG) Using a Load Cell 
